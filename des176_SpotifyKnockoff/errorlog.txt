@@ -1,0 +1,38 @@
+/ by zero
+
+The second line
+the text
+more text
+2018-01-30T20:59:43.082  2018-01-30T20:59:43.113-05:00[America/New_York] / by zero
+2018-01-30T21:01:11.305 / by zero
+2018-01-30T21:01:48.062 / by zero
+2018-01-30T21:17:33.351 / by zero
+2018-02-01T11:13:14.415 Unknown column 'artistID' in 'field list'
+2018-02-01T11:26:03.230 Column count doesn't match value count at row 1
+2018-02-01T11:31:25.656 Column count doesn't match value count at row 1
+2018-02-01T11:34:20.176 Column count doesn't match value count at row 1
+2018-02-01T11:35:47.711 Column count doesn't match value count at row 1
+2018-02-01T11:36:49.339 Column count doesn't match value count at row 1
+2018-02-01T11:37:51.257 Column count doesn't match value count at row 1
+2018-02-01T11:37:51.556 Unknown column 'albumID' in 'field list'
+2018-02-01T11:38:08.642 Column count doesn't match value count at row 1
+2018-02-01T11:38:08.936 Unknown column 'albumID' in 'field list'
+2018-02-01T11:39:38.505 Unknown column 'artistID' in 'field list'
+2018-02-01T11:39:38.833 Unknown column 'albumID' in 'field list'
+2018-02-01T11:39:51.476 Unknown column 'artistID' in 'field list'
+2018-02-01T11:39:51.759 Unknown column 'albumID' in 'field list'
+2018-02-01T13:23:38.788 Unknown column 'artistID' in 'field list'
+2018-02-01T13:23:44.097 Unknown column 'albumID' in 'field list'
+2018-02-01T15:04:35.369 Unknown column 'artistID' in 'field list'
+2018-02-01T15:04:35.543 Unknown column 'albumID' in 'field list'
+2018-02-01T15:06:21.599 Unknown column 'artistID' in 'field list'
+2018-02-01T15:06:21.752 Unknown column 'albumID' in 'field list'
+2018-02-01T15:09:49.338 Unknown column 'artistID' in 'field list'
+2018-02-01T15:09:49.488 Unknown column 'albumID' in 'field list'
+2018-02-01T15:11:37.306 Unknown column 'artistID' in 'field list'
+2018-02-01T15:23:26.911 Unknown column 'artistID' in 'field list'
+2018-02-01T15:34:15.761 Unknown column 'firstName' in 'field list'
+2018-02-01T15:43:57.631 Unknown column 'bandName' in 'field list'
+2018-02-01T15:46:08.556 Unknown column 'recording_company' in 'field list'
+2018-02-01T15:47:03.901 Unknown column 'recording_compan_namey' in 'field list'
+2018-02-01T15:47:20.807 Unknown column 'recording_compan_name' in 'field list'
